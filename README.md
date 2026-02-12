@@ -1,7 +1,4 @@
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![Linux](https://img.shields.io/badge/Linux-Compatible-green)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.13-blue) ![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey) ![Security](https://img.shields.io/badge/Security-RBAC-green)
 
 # 📂 Sistema de Classificação de Dados com RBAC
 
