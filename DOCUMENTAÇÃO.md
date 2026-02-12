@@ -157,7 +157,7 @@ Pode ser utilizado como base para auditorias internas e processos de compliance.
 O projeto demonstra de forma prática a aplicação de conceitos de:
 
 - Governança de Dados  
-- Segurança da Informação  
+- Information Security
 - Controle de Acesso  
 - Auditoria e Compliance  
 
